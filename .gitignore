@@ -1,0 +1,16 @@
+# arquivos compilados
+cash
+mario
+hello
+uppercase
+caesar
+teste
+readability
+scrabble
+
+# executáveis windows
+*.exe
+
+# objetos de compilação
+*.o
+*.obj
