@@ -1,0 +1,16 @@
+sort1 uses: bubble sort
+
+How do you know?:
+O(n²) worst case and O(n) best case.
+on sorted it is sped up significantly 
+
+sort2 uses: merge Sort
+
+How do you know?:
+O(n log n) unaffected by input order, always the same and tends to be faster.
+
+sort3 uses: selection sort
+
+How do you know?:
+time remains the same for each and every case.
+fits selection sort, which worst and best is always O(n²)
